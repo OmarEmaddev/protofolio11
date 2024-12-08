@@ -1,0 +1,65 @@
+body{
+    
+    background: #468796;
+}
+
+.image-container{
+   text-align: left;
+   margin: 20px;
+   display: inline-flex;
+}
+
+.photo{
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 25%;
+    box-shadow: 5px 5px 3px black;
+}
+
+.image-text{
+    position: relative;
+    bottom: -431px;
+    left: -69%;
+    color:white; 
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.section{
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 3px black;
+    background-color:#e8dbdb ;
+}
+
+.para{
+    display: inline-block;
+}
+
+.link{
+    display: inline-block;
+}
+
+.percent{
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 25%;
+    color: white;
+    background-color: rgb(136, 136, 222);
+   
+}
+
+.space{
+    margin: 5px;
+}
+.percentja{
+    background-color: rgb(126, 118, 118) ;
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 25%;
+    color:white;
+}
